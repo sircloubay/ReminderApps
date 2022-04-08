@@ -1,0 +1,235 @@
+{
+  "akun": [
+    {
+      "username": 203791410076,
+      "name": "Pratiwi",
+      "password": 203791410076,
+      "role": "user",
+      "dibuat": {
+        "seconds": 1648818968,
+        "nanoseconds": 58000000
+      },
+      "id": "C9Z1gqJDI5fMr82xwi8NUOQWSI02"
+    },
+    {
+      "password": 203791410075,
+      "name": "Saskia",
+      "dibuat": {
+        "seconds": 1648818965,
+        "nanoseconds": 92000000
+      },
+      "username": 203791410075,
+      "role": "user",
+      "id": "cIJnZHFphSOQiae9iEVGeZIwjEM2"
+    },
+    {
+      "password": 203791410074,
+      "username": 203791410074,
+      "dibuat": {
+        "seconds": 1648818962,
+        "nanoseconds": 18000000
+      },
+      "role": "user",
+      "name": "Surya",
+      "id": "2nnVU5MduZSGUVPL2LjahfZUPch2"
+    },
+    {
+      "name": "Windiani",
+      "username": 203791410073,
+      "role": "user",
+      "password": 203791410073,
+      "dibuat": {
+        "seconds": 1648818958,
+        "nanoseconds": 966000000
+      },
+      "id": "6YKIGGbAq3cxiWtbSpW5C3o9Cc32"
+    },
+    {
+      "name": "Eka",
+      "role": "user",
+      "password": 203791410072,
+      "username": 203791410072,
+      "dibuat": {
+        "seconds": 1648818956,
+        "nanoseconds": 3000000
+      },
+      "id": "GaDUlDyeD6X6cB06khWlyubGiRs2"
+    },
+    {
+      "name": "Sherly",
+      "role": "user",
+      "dibuat": {
+        "seconds": 1648818953,
+        "nanoseconds": 19000000
+      },
+      "username": 203791410071,
+      "password": 203791410071,
+      "id": "6doCj4exGVZmhW07cBlY3nP99Mm1"
+    },
+    {
+      "dibuat": {
+        "seconds": 1648818949,
+        "nanoseconds": 894000000
+      },
+      "username": 203791410070,
+      "role": "user",
+      "name": "Nugroho",
+      "password": 203791410070,
+      "id": "ZHO2fGZUatVXCBA3wJVYDqAG1S13"
+    },
+    {
+      "password": 203791410069,
+      "username": 203791410069,
+      "dibuat": {
+        "seconds": 1648818946,
+        "nanoseconds": 949000000
+      },
+      "name": "Adi",
+      "role": "user",
+      "id": "whXnpwGN3QgdJvdrtPOhp10aI8G2"
+    },
+    {
+      "role": "user",
+      "dibuat": {
+        "seconds": 1648818943,
+        "nanoseconds": 994000000
+      },
+      "name": "Satrio",
+      "username": 203791410068,
+      "password": 203791410068,
+      "id": "UYQbeX5D3egDSsd3YdNW8sYzXIA2"
+    },
+    {
+      "dibuat": {
+        "seconds": 1648818941,
+        "nanoseconds": 205000000
+      },
+      "name": "Firmansyah",
+      "username": 203791410067,
+      "password": 203791410067,
+      "role": "user",
+      "id": "iXAqdxpVejhZQ8lHnjF1zek922I2"
+    },
+    {
+      "password": 203791410066,
+      "role": "user",
+      "username": 203791410066,
+      "dibuat": {
+        "seconds": 1648818937,
+        "nanoseconds": 915000000
+      },
+      "name": "Bayu",
+      "id": "q6mNq2019mTM9jEOqbEFEh74PdC3"
+    },
+    {
+      "name": "Saskia",
+      "role": "user",
+      "password": 2242567935,
+      "dibuat": {
+        "seconds": 1648818889,
+        "nanoseconds": 50000000
+      },
+      "username": 2242567935,
+      "id": "VNiT5rzUbodIqGHkEf98IO1QFFY2"
+    },
+    {
+      "name": "Surya",
+      "username": 2241567930,
+      "dibuat": {
+        "seconds": 1648818886,
+        "nanoseconds": 31000000
+      },
+      "password": 2241567930,
+      "role": "user",
+      "id": "eda4qR4NKeYjI7d26ypjaOJGCiP2"
+    },
+    {
+      "username": 2240567925,
+      "name": "Windiani",
+      "password": 2240567925,
+      "dibuat": {
+        "seconds": 1648818882,
+        "nanoseconds": 966000000
+      },
+      "role": "user",
+      "id": "kq6A20iUbdWBLq4LED1tmYC76DP2"
+    },
+    {
+      "password": 2239567920,
+      "role": "user",
+      "name": "Eka",
+      "username": 2239567920,
+      "dibuat": {
+        "seconds": 1648818880,
+        "nanoseconds": 50000000
+      },
+      "id": "zBXBH4oel5eFRrlPMjZoQ8zD9Y92"
+    },
+    {
+      "role": "user",
+      "username": 2238567915,
+      "password": 2238567915,
+      "dibuat": {
+        "seconds": 1648818877,
+        "nanoseconds": 65000000
+      },
+      "name": "Sherly",
+      "id": "WBovacP4B2Ogq00wRrew7b4wG9a2"
+    },
+    {
+      "username": 2237567910,
+      "role": "user",
+      "password": 2237567910,
+      "dibuat": {
+        "seconds": 1648818873,
+        "nanoseconds": 947000000
+      },
+      "name": "Nugroho",
+      "id": "EM3TohzrifYPcrg8IKW6OqMZQk13"
+    },
+    {
+      "role": "user",
+      "name": "Adi",
+      "username": 2236567905,
+      "dibuat": {
+        "seconds": 1648818871,
+        "nanoseconds": 23000000
+      },
+      "password": 2236567905,
+      "id": "8sKREei5y1Wb0LstNefZmnI4U932"
+    },
+    {
+      "username": 2235567900,
+      "role": "user",
+      "dibuat": {
+        "seconds": 1648818868,
+        "nanoseconds": 296000000
+      },
+      "password": 2235567900,
+      "name": "Satrio",
+      "id": "mN9gBEw4llUrPZRaZoxiY3Usb1m2"
+    },
+    {
+      "dibuat": {
+        "seconds": 1648818865,
+        "nanoseconds": 152000000
+      },
+      "name": "Firmansyah",
+      "username": 2234567895,
+      "role": "user",
+      "password": 2234567895,
+      "id": "56g7mIuE5IUca92zduXfrasKtHv1"
+    },
+    {
+      "username": "2233567890",
+      "role": "Admin",
+      "name": "Bayu",
+      "password": "2233567890",
+      "dibuat": {
+        "seconds": 1648818862,
+        "nanoseconds": 300000000
+      },
+      "id": "pqbrwhX73hPpzytRue8PHsMFaxx1"
+    }
+  ]
+}
