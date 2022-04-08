@@ -7,20 +7,31 @@ pada aplikasi ReminderApps.
 
 
 
-## Installation
+## Run Locally
 
-Install ReminderApps with npm
+Clone the project
 
 ```bash
   git clone https://github.com/sircloubay/ReminderApps.git
+```
+
+Go to the project directory
+
+```bash
   cd ReminderApps
+```
+
+Install dependencies
+
+```bash
   npm install
+```
+
+Start the server
+
+```bash
   node index
 ```
-    
-## Authors
-
-- [@bayufirmansyah](https://www.github.com/bayufirmansyaah)
 
 
 ## Features
@@ -34,4 +45,14 @@ Install ReminderApps with npm
 - Melakukan Convert Data dari Excel
 
 
+
+
+## License
+
+[MIT](https://choosealicense.com/licenses/mit/)
+
+
+## Authors
+
+- [@bayufirmansyah](https://www.github.com/bayufirmansyaah)
 
